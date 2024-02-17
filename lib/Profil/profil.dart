@@ -53,7 +53,7 @@ class HalamanProfil extends StatelessWidget {
                                     fontWeight: FontWeight.bold,
                                     fontSize: 17),
                               )),
-                          Text("ARN161-35-39",
+                          Text("ARN161-3539",
                               style: GoogleFonts.plusJakartaSans(
                                 textStyle: TextStyle(
                                     color: Colors.black54, fontSize: 15),
