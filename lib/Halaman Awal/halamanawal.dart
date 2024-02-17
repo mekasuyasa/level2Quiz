@@ -67,7 +67,7 @@ class HalamanAwal extends StatelessWidget {
                               fontSize: 25,
                               fontWeight: FontWeight.bold),
                         )),
-                    Text("ARN161-35-39",
+                    Text("ARN161-3539",
                         style: GoogleFonts.plusJakartaSans(
                           textStyle: const TextStyle(
                               color: Color(0xff8B8B8B), fontSize: 18),
