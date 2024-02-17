@@ -76,7 +76,7 @@ class HalamanReguler extends StatelessWidget {
                           textAlign: TextAlign.left,
                         ),
                         Text(
-                          "ARN161-35-39",
+                          "ARN161-3539",
                           style: TextStyle(
                               fontFamily: 'PlusJakartaSans',
                               color: Color(0xff8B8B8B),
