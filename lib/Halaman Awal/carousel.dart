@@ -1,14 +1,14 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 
-class CarouselWithIndicatorDemo extends StatefulWidget {
+class Carousel extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
     return _CarouselWithIndicatorState();
   }
 }
 
-class _CarouselWithIndicatorState extends State<CarouselWithIndicatorDemo> {
+class _CarouselWithIndicatorState extends State<Carousel> {
   int _current = 0;
   final CarouselController _controller = CarouselController();
   final List<String> imgList = [
